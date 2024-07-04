@@ -18,7 +18,7 @@ This is a simple web application that allows users to encrypt and decrypt text u
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/vigenere-cipher-webapp.git
+    git clone https://github.com/Sham-Ghate//vigenere-cipher-webapp.git
     cd vigenere-cipher-webapp
     ```
 
